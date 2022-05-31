@@ -1,4 +1,4 @@
-# ReadMe for University of Washington Course: Structures of Complex Systems
+# ReadMe for Structures of Complex Systems Course Assignments
 
 --------------------------------------------------------------------------------------
 # Introduction
