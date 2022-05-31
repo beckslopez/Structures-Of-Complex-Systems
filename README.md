@@ -15,11 +15,19 @@ We will survey the fundamentals of data analysis and embeddings, machine learnin
 Each jyupter python notebook contains the code for a lab on for a specific concept we focused such week. Additionally, there are several data excel files necessary for particular lab assignments.
 
 -LabOne_Lopez.ipynb : Intro to Neural Networks and Deep Learning
+
 -LabTwo_Lopez.ipynb : Optimization and Training
+
 -LabThree_Lopez.ipynb : Deep Learning Processes
+
 -LabFour_Lopez.ipynb : Convolutional Neural Networks
+
 -LabFive_Lopez.ipynb : Advanced Convolutional Neural Networks
+
 -LabSix_Lopez.ipynb : Recurrent Neural Networks
+
 -LabSeven_Lopez.ipynb : Applications and Extensions of RNNs
+
 -LabEight_Lopez.ipynb : Data Decomposition and Interpretation
+
 -LabNine_Lopez.ipynb : Generative and Adversarial Models
